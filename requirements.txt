@@ -1,0 +1,11 @@
+torch==2.3.1
+pytorch-lightning==2.5.0.post0
+pytorch-forecasting==1.2.0
+matplotlib==3.9.2
+optuna==4.2.0
+pandas==2.2.2
+numpy==1.23.5
+scikit-learn==1.4.2
+statsmodels==0.14.2
+fastdtw==0.3.4
+pyinform==0.2.0
